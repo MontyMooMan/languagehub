@@ -1,2 +1,0 @@
-# languagehub
-Language Hub
